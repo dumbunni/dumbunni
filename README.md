@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Markdown and Github - the basics first. 
 - 👯 I’m looking to collaborate on any D&D projects!
 - 💬 Ask me about Avrae, Discord's Dungeons & Dragons bot. I'm decent at it. It's what inspired me to start coding.
-- 📫 How to reach me: Mella#0420 (Discord)
+- 📫 How to reach me: @mella (Discord)
 
 <!--
 **sarahnoakes/sarahnoakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
