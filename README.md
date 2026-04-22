@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🙋‍♀️ I'm Sarah (she/her)
+- 🙋‍♀️ I'm Mella (she/her)
 - 🌱 I’m currently learning Markdown and Github - the basics first. 
 - 👯 I’m looking to collaborate on any D&D projects!
 - 💬 Ask me about Avrae, Discord's Dungeons & Dragons bot. I'm decent at it. It's what inspired me to start coding.
